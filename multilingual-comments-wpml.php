@@ -4,7 +4,7 @@
  * Plugin URI: https://so-wp.com/plugin/multilingual-comments-wpml
  * Description: Show and count all comments from all languages for a post and its translations (WPML plugin required)
  * Author: Piet Bos
- * Version: 1.5.0
+ * Version: 1.5.1
  * Author URI: https://senlinonline.com
  * Text Domain: multilingual-comments-wpml
  * Domain Path: /languages
